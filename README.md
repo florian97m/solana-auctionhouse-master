@@ -9,7 +9,7 @@ Both types of auctions have SPL tokens (e.g. an NFT) as the auction item and acc
 The maximum number of active bidders is capped by an argument provided on auction creation. This is because the Solana runtime needs to know how much space to allocate for the auction account.
 
 The auction account is a PDA owned by the auctionhouse program to allow it to act as an escrow.
-
+open auction
 ### Open Auction
 
 - The seller creates an open auction and escrows their SPL tokens
