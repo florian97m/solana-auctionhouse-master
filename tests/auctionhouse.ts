@@ -96,7 +96,6 @@ describe('open auction', () => {
   let auctionAddress;
   let bump;
   let auctionAta;
-  let auctionAccount;
   let losingBid;
   let winningBid;
   let initialAuctionBalance;
