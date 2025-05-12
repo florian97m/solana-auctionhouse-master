@@ -36,7 +36,7 @@ open auction
 - If this is a second-price auction, then the above logic takes place but with the seller being paid the true bid of the second highest bidder and the highest bidder refunded the difference between their escrowed SOL and the second highest bid
 - The seller can cancel the auction any time before the reveal period starts, allowing them to reclaim the SPL tokens
 
-## Quickstart
+## Quickstart right
 
 Install [Anchor](https://github.com/project-serum/anchor) if necessary
 
